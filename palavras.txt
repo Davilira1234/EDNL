@@ -1,0 +1,10 @@
+apple;maçã;substantivo
+run;correr;verbo
+blue;azul;adjetivo
+they;eles;pronome
+the;o;artigo
+in;em;preposiçbluão
+one;um;numeral
+quickly;rapidamente;advérbio
+and;e;conjunção
+wow;uau;interjeição
